@@ -1,5 +1,5 @@
 # GplexPL
-GplexPL – polska wersja dodatku o nazwie „Gplex”
+GplexPL – polska wersja dodatku o nazwie „Gplex”. 
 Link do oryginału: https://greasyfork.org/pl/scripts/492193-gplex-old-google-frontend
 ## Oryginalny opis:
 <b>UWAGA: Gplex jest obecnie w fazie beta. Należy się spodziewać błędów i brakujących funkcji.</b>
