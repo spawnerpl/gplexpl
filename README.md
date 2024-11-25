@@ -26,6 +26,9 @@ Gplex to nakładka Google. Posiada układy z lat 2011-2019. Aktualnie obsługiwa
 ![obraz](https://github.com/user-attachments/assets/d7d64de2-a086-42de-ad1a-f601d5f6108d)
 4.Pobierz najnowszą wersję GplexPL
 
+![obraz](https://github.com/user-attachments/assets/51fe8561-400a-4e19-bce7-60742dfaa99d)
+
+
 5.Plik zostanie automatycznie zapisany do twojej lokalizacji pobierania
 
 ![obraz](https://github.com/user-attachments/assets/bc91f531-6874-4385-8953-706541ef6b4b)
