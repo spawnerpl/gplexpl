@@ -3,7 +3,7 @@ GplexPL - a Polish version of the add-on called "Gplex"
 Link do oryginału: https://greasyfork.org/pl/scripts/492193-gplex-old-google-frontend
 ## Oryginalny opis:
 - EN:
-NOTE: Gplex is currently in beta. Bugs and missing features are to be expected.
+  NOTE: Gplex is currently in beta. Bugs and missing features are to be expected.
 
 Gplex is a Google frontend. It has the 2011-2019 layouts. Currently supported pages:
 
