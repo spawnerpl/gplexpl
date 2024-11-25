@@ -12,7 +12,7 @@ Gplex to nakładka Google. Posiada układy z lat 2011-2019. Aktualnie obsługiwa
 - Wyszukiwanie wideo 
 
 ## Jak zainstalować ?
-1.Wpisz w google Tampermonkey i dodaj nazwę swojej przeglądarki np. Firefox<br>
-![obraz](https://github.com/user-attachments/assets/29c9f91d-6599-48d1-8c6f-fc62359f4506)
+1.Wpisz w google Tampermonkey i dodaj nazwę swojej przeglądarki np. Firefox
+<br>![obraz](https://github.com/user-attachments/assets/29c9f91d-6599-48d1-8c6f-fc62359f4506)
 
 ## Jak wybrać wygląd ?
