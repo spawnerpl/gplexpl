@@ -44,3 +44,6 @@ Gplex to nakładka Google. Posiada układy z lat 2011-2019. Aktualnie obsługiwa
 
 
 ## Jak wybrać wygląd ?
+Aby zmienić wygląd strony, wchodzimy na https://www.google.com/gplex
+
+![obraz](https://github.com/user-attachments/assets/f4d3610b-2b48-4594-8d33-f608b44085e9)
